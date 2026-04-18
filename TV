@@ -18,14 +18,20 @@ https://tvpass.org/live/Boomerang/hd
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cartoon Network | (TizTV)"  group-title="Animation/KidsTV",Cartoon Network | (TizTV)
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cartoon Network || (TizTV)"  group-title="Animation/KidsTV",Cartoon Network || (TizTV)
+http://89.105.221.127/CartoonNetwork/index.m3u8?token=test
+
 #EXTINF:-1, tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="New Logo" tvg-name="Cartoon Network East | (TVpass) (TizTV)"  group-title="Animation/KidsTV",Cartoon Network East | (TVpass) (TizTV)
 https://tvpass.org/live/CartoonNetworkEast/hd
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney | (TizTV)"  group-title="Animation/KidsTV",Disney | (TizTV)
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2303
+http://89.105.221.127/Disney/mpegts?token=test
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney | (TizTV)"  group-title="Animation/KidsTV",Disney | (TizTV)
-http://89.105.221.127/Disney/mpegts?token=test
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2303
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney || (TizTV)"  group-title="Animation/KidsTV",Disney || (TizTV)
+http://89.105.221.127/Disney/index.m3u8?token=test
 
 #EXTINF:-1, tvg-id="disney-eastern-feed" tvg-logo="New Logo" tvg-name="Disney East | (TVpass) (TizTV)"  group-title="Animation/KidsTV",Disney East | (TVpass) (TizTV)
 https://tvpass.org/live/DisneyChannelEast/hd
@@ -38,6 +44,9 @@ https://tvpass.org/live/DisneyXDEast/hd
 
 #EXTINF:-1, tvg-id="Nickelodeon.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" tvg-name="Nickelodeon | (TizTV)"  group-title="Animation/KidsTV",Nickelodeon | (TizTV)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nickelodeon || (TizTV)"  group-title="Animation/KidsTV",Nickelodeon || (TizTV)
+http://89.105.221.127/Nickelodeon/index.m3u8?token=test
 
 #EXTINF:-1, tvg-id="nickelodeon-usa-east-feed" tvg-logo="New Logo" tvg-name="Nickelodeon East | (TVpass) (TizTV)"  group-title="Animation/KidsTV",Nickelodeon East | (TVpass) (TizTV)
 https://tvpass.org/live/NickelodeonEast/hd
