@@ -9,6 +9,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="[adult swim] West | (TizTV)"  group-title="Animation/KidsTV",[adult swim] West | (TizTV)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aswest.us.m3u8
 
+#EXTINF:-1, tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" tvg-name="[adult swim] West || (TizTV)"  group-title="Animation/KidsTV",[adult swim] West || (TizTV)
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+
 #EXTINF:-1, tvg-id="Boomerang.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" tvg-name="Boomerang | (TizTV)"  group-title="Animation/KidsTV",Boomerang | (TizTV)
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
@@ -25,10 +28,10 @@ http://89.105.221.127/CartoonNetwork/index.m3u8?token=test
 https://tvpass.org/live/CartoonNetworkEast/hd
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney | (TizTV)"  group-title="Animation/KidsTV",Disney | (TizTV)
-http://89.105.221.127/Disney/mpegts?token=test
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney | (TizTV)"  group-title="Animation/KidsTV",Disney | (TizTV)
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2303
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney || (TizTV)"  group-title="Animation/KidsTV",Disney || (TizTV)
+http://89.105.221.127/Disney/mpegts?token=test
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney || (TizTV)"  group-title="Animation/KidsTV",Disney || (TizTV)
 http://89.105.221.127/Disney/index.m3u8?token=test
