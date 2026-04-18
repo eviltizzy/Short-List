@@ -1,4 +1,111 @@
 #EXTM3U
+
+#EXTINF:-1, tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" tvg-name="[adult swim] East | (TizTV)"  group-title="Animation/KidsTV",[adult swim] East | (TizTV)
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="[adult swim] East || (TizTV)"  group-title="Animation/KidsTV",[adult swim] East || (TizTV)
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aseast.us.m3u8
+
+#EXTINF:-1, tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" tvg-name="[adult swim] West | (TizTV)"  group-title="Animation/KidsTV",[adult swim] West | (TizTV)
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="[adult swim] West || (TizTV)"  group-title="Animation/KidsTV",[adult swim] West || (TizTV)
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aswest.us.m3u8
+
+#EXTINF:-1, tvg-id="Boomerang.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" tvg-name="Boomerang | (TizTV)"  group-title="Animation/KidsTV",Boomerang | (TizTV)
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Boomerang | (TVpass) (TizTV)"  group-title="Animation/KidsTV",Boomerang | (TVpass) (TizTV)
+https://tvpass.org/live/Boomerang/hd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cartoon Network | (TizTV)"  group-title="Animation/KidsTV",Cartoon Network | (TizTV)
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cartoon Network || (TizTV)"  group-title="Animation/KidsTV",Cartoon Network || (TizTV)
+http://89.105.221.127/CartoonNetwork/index.m3u8?token=test
+
+#EXTINF:-1, tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="New Logo" tvg-name="Cartoon Network East | (TVpass) (TizTV)"  group-title="Animation/KidsTV",Cartoon Network East | (TVpass) (TizTV)
+https://tvpass.org/live/CartoonNetworkEast/hd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney | (TizTV)"  group-title="Animation/KidsTV",Disney | (TizTV)
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2303
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney || (TizTV)"  group-title="Animation/KidsTV",Disney || (TizTV)
+http://89.105.221.127/Disney/index.m3u8?token=test
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney ||| (TizTV)"  group-title="Animation/KidsTV",Disney ||| (TizTV)
+http://89.105.221.127/Disney/mpegts?token=test
+
+#EXTINF:-1, tvg-id="disney-eastern-feed" tvg-logo="New Logo" tvg-name="Disney East | (TVpass) (TizTV)"  group-title="Animation/KidsTV",Disney East | (TVpass) (TizTV)
+https://tvpass.org/live/DisneyChannelEast/hd
+
+#EXTINF:-1, tvg-id="Disney.XD.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" tvg-name="Disney XD East | (TizTV)"  group-title="Animation/KidsTV",Disney XD East | (TizTV)
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1, tvg-id="disney-xd-usa-eastern-feed" tvg-logo="New Logo" tvg-name="Disney XD East | (TVpass) (TizTV)"  group-title="Animation/KidsTV",Disney XD East | (TVpass) (TizTV)
+https://tvpass.org/live/DisneyXDEast/hd
+
+#EXTINF:-1, tvg-id="Nickelodeon.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" tvg-name="Nickelodeon | (TizTV)"  group-title="Animation/KidsTV",Nickelodeon | (TizTV)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nickelodeon || (TizTV)"  group-title="Animation/KidsTV",Nickelodeon || (TizTV)
+http://89.105.221.127/Nickelodeon/index.m3u8?token=test
+
+#EXTINF:-1, tvg-id="nickelodeon-usa-east-feed" tvg-logo="New Logo" tvg-name="Nickelodeon East | (TVpass) (TizTV)"  group-title="Animation/KidsTV",Nickelodeon East | (TVpass) (TizTV)
+https://tvpass.org/live/NickelodeonEast/hd
+
+#EXTINF:-1, tvg-id="Nicktoons.us2" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png/revision/latest/scale-to-width-down/1200?cb=20231203212939" tvg-name="Nicktoons | (TizTV)"  group-title="Animation/KidsTV",Nicktoons | (TizTV)
+http://212.102.60.231/NICKTOONS/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nicktoons East | (TVpass) (TizTV)"  group-title="Animation/KidsTV",Nicktoons East | (TVpass) (TizTV)
+https://tvpass.org/live/NicktoonsEast/hd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="Radio | BBC Radio 1 (Top40) | (MPD Akamai) (TizTV)"  group-title="Radio",Radio | BBC Radio 1 (Top40) | (MPD Akamai) (TizTV)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/v8xnh4Bf/BBC1-Dance.jpg" tvg-name="Radio | BBC Radio 1 Dance (Electronica/Dance) | (MPD Akamai) (TizTV)"  group-title="Radio",Radio | BBC Radio 1 Dance (Electronica/Dance) | (MPD Akamai) (TizTV)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_one_dance.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="Radio | BBC Radio 2 (Oldies/Pop) | (MPD Akamai) (TizTV)"  group-title="Radio",Radio | BBC Radio 2 (Oldies/Pop) | (MPD Akamai) (TizTV)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_two.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="Radio | BBC Radio 3 (Classical) | (MPD Akamai) (TizTV)"  group-title="Radio",Radio | BBC Radio 3 (Classical) | (MPD Akamai) (TizTV)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_three.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/wvsFJHGp/BBC-Radio-4.png" tvg-name="Radio | BBC Radio 4 FM (Talk Radio) | (MPD Akamai) (TizTV)"  group-title="Radio",Radio | BBC Radio 4 FM (Talk Radio) | (MPD Akamai) (TizTV)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_fourfm.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/FK6D71Gp/BBC-Radio-5.png" tvg-name="Radio | BBC Radio 5 live (News/Talk) | (MPD Akamai) (TizTV)"  group-title="Radio",Radio | BBC Radio 5 live (News/Talk) | (MPD Akamai) (TizTV)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_five_live.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/7L5N8wD2/BBC-Radio-6.png" tvg-name="Radio | BBC Radio 6 Music (Alternative/Indie) | (MPD Akamai) (TizTV)"  group-title="Radio",Radio | BBC Radio 6 Music (Alternative/Indie) | (MPD Akamai) (TizTV)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_6music.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/TP3HqmFV/Megaton-Cafe-Logo3.jpg" tvg-name="Radio | Megaton Cafe Radio | (TizTV)"  group-title="Radio",Radio | Megaton Cafe Radio | (TizTV)
+http://us2.internet-radio.com:8443/
+
+#EXTINF:-1, tvg-id="boomerang" tvg-logo="New Logo" tvg-name="SD | Boomerang | (TVpass) (TizTV)"  group-title="SD Channels",SD | Boomerang | (TVpass) (TizTV)
+https://tvpass.org/live/Boomerang/sd
+
+#EXTINF:-1, tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="New Logo" tvg-name="SD | Cartoon Network East | (TVpass) (TizTV)"  group-title="SD Channels",SD | Cartoon Network East | (TVpass) (TizTV)
+https://tvpass.org/live/CartoonNetworkEast/sd
+
+#EXTINF:-1, tvg-id="disney-eastern-feed" tvg-logo="New Logo" tvg-name="SD | Disney East | (TVpass) (TizTV)"  group-title="SD Channels",SD | Disney East | (TVpass) (TizTV)
+https://tvpass.org/live/DisneyChannelEast/sd
+
+#EXTINF:-1, tvg-id="disney-xd-usa-eastern-feed" tvg-logo="New Logo" tvg-name="SD | Disney XD East | (TVpass) (TizTV)"  group-title="SD Channels",SD | Disney XD East | (TVpass) (TizTV)
+https://tvpass.org/live/DisneyXDEast/sd
+
+#EXTINF:-1, tvg-id="nickelodeon-usa-east-feed" tvg-logo="New Logo" tvg-name="SD | Nickelodeon East | (TVpass) (TizTV)"  group-title="SD Channels",SD | Nickelodeon East | (TVpass) (TizTV)
+https://tvpass.org/live/NickelodeonEast/sd
+
+#EXTINF:-1, tvg-id="nicktoons-east" tvg-logo="New Logo" tvg-name="SD | Nicktoons East | (TVpass) (TizTV)"  group-title="SD Channels",SD | Nicktoons East | (TVpass) (TizTV)
+https://tvpass.org/live/NicktoonsEast/sd
+
+#EXTINF:-1, tvg-id="teennick-eastern" tvg-logo="New Logo" tvg-name="TeenNick East | (TVpass) (TizTV)"  group-title="Animation/KidsTV",TeenNick East | (TVpass) (TizTV)
+https://tvpass.org/live/TeenNickEast/hd
+
+#EXTM3U
  
 #EXTINF:-1, tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" tvg-name="[adult swim] East | (TizTV)"  group-title="Animation/KidsTV",[adult swim] East | (TizTV)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
