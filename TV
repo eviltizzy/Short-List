@@ -162,6 +162,30 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2655.ts
 #EXTINF:-1, tvg-id="BUZZR.Stream.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" tvg-name="Buzzr"  group-title="TV",Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://oktraffic.org/assets/images/TransportationLogoHDark.png" tvg-name="Cam - Lawton US-62 & 52nd"  group-title="Cams",Cam - Lawton US-62 & 52nd
+https://stream.oktraffic.org/delay-stream/6250cab4f10b70eb.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://oktraffic.org/assets/images/TransportationLogoHDark.png" tvg-name="Cam - OKC I-235 & N 23rd (N)"  group-title="Cams",Cam - OKC I-235 & N 23rd (N)
+https://stream.oktraffic.org/delay-stream/019b9a857e36cf52.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://oktraffic.org/assets/images/TransportationLogoHDark.png" tvg-name="Cam - OKC I-235 & N 23rd (S)"  group-title="Cams",Cam - OKC I-235 & N 23rd (S)
+https://stream.oktraffic.org/delay-stream/f6061b644e5f2f61.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://oktraffic.org/assets/images/TransportationLogoHDark.png" tvg-name="Cam - OKC I-40 & I-235"  group-title="Cams",Cam - OKC I-40 & I-235
+https://stream.oktraffic.org/delay-stream/03f99238432434ee.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://oktraffic.org/assets/images/TransportationLogoHDark.png" tvg-name="Cam - OKC I-40 & OKC Blvd"  group-title="Cams",Cam - OKC I-40 & OKC Blvd
+https://stream.oktraffic.org/delay-stream/10392f89ff01f471.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://oktraffic.org/assets/images/TransportationLogoHDark.png" tvg-name="Cam - OKC OKC Blvd & Lee"  group-title="Cams",Cam - OKC OKC Blvd & Lee
+https://stream.oktraffic.org/delay-stream/77b8da6b9a317d91.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://oktraffic.org/assets/images/TransportationLogoHDark.png" tvg-name="Cam - Tulsa I-244 & US-75 N"  group-title="Cams",Cam - Tulsa I-244 & US-75 N
+https://stream.oktraffic.org/delay-stream/b7b373eb2a78223e.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://oktraffic.org/assets/images/TransportationLogoHDark.png" tvg-name="Cam - Tulsa US-412 & N 33rd"  group-title="Cams",Cam - Tulsa US-412 & N 33rd
+https://stream.oktraffic.org/delay-stream/ae210d1685647e52.stream/playlist.m3u8
+
 #EXTINF:-1, tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-name="Cartoon Network"  group-title="Animation/KidsTV",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
