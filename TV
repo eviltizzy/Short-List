@@ -153,6 +153,12 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1, tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang"  group-title="Animation/KidsTV",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Boomerang (nocable.cc)"  group-title="Animation/KidsTV",Boomerang (nocable.cc)
+http://nocable.cc:8080/@buddy/4854/14741
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Boomerang (UK) (nocable.cc)"  group-title="Animation/KidsTV",Boomerang (UK) (nocable.cc)
+http://nocable.cc:8080/@buddy/4854/53718
+
 #EXTINF:-1, tvg-id="Bounce.TV.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" tvg-name="Bounce TV"  group-title="TV",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 
@@ -227,6 +233,18 @@ https://stream.oktraffic.org/delay-stream/ae210d1685647e52.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-name="Cartoon Network"  group-title="Animation/KidsTV",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cartoon Network (CA) (nocable.cc)"  group-title="Animation/KidsTV",Cartoon Network (CA) (nocable.cc)
+http://nocable.cc:8080/@buddy/4854/57380
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cartoon Network (E) (CA) (nocable.cc)"  group-title="Animation/KidsTV",Cartoon Network (E) (CA) (nocable.cc)
+http://nocable.cc:8080/@buddy/4854/57356
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cartoon Network (nocable.cc)"  group-title="Animation/KidsTV",Cartoon Network (nocable.cc)
+http://nocable.cc:8080/@buddy/4854/46708
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cartoon Network (UK) (nocable.cc)"  group-title="Animation/KidsTV",Cartoon Network (UK) (nocable.cc)
+http://nocable.cc:8080/@buddy/4854/53719
 
 #EXTINF:-1, tvg-id="WCBS-DT.us_locals1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS"  group-title="TV",CBS
 http://stream.cammonitorplus.net/1810/index.m3u8
@@ -318,8 +336,17 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2595.ts
 #EXTINF:-1, tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" tvg-name="Disney Channel"  group-title="Animation/KidsTV",Disney Channel
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney Channel East A (nocable.cc)"  group-title="Animation/KidsTV",Disney Channel East A (nocable.cc)
+http://nocable.cc:8080/@buddy/4854/2206
+
 #EXTINF:-1, tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" tvg-name="Disney XD"  group-title="Animation/KidsTV",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney XD (CA) (nocable.cc)"  group-title="Animation/KidsTV",Disney XD (CA) (nocable.cc)
+http://nocable.cc:8080/@buddy/4854/57420
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney XD (nocable.cc)"  group-title="Animation/KidsTV",Disney XD (nocable.cc)
+http://nocable.cc:8080/@buddy/4854/75621
 
 #EXTINF:-1, tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" tvg-name="E! Entertainment"  group-title="TV",E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
@@ -567,8 +594,17 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74691.ts
 #EXTINF:-1, tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon"  group-title="Animation/KidsTV",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nickelodeon (UK) (nocable.cc)"  group-title="Animation/KidsTV",Nickelodeon (UK) (nocable.cc)
+http://nocable.cc:8080/@buddy/4854/53728
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nickelodeon R (CA) (nocable.cc)"  group-title="Animation/KidsTV",Nickelodeon R (CA) (nocable.cc)
+http://nocable.cc:8080/@buddy/4854/47349
+
 #EXTINF:-1, tvg-id="Nicktoons.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" tvg-name="Nicktoons"  group-title="Animation/KidsTV",Nicktoons
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NickToons (nocable.cc)"  group-title="Animation/KidsTV",NickToons (nocable.cc)
+http://nocable.cc:8080/@buddy/4854/36
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/B2A8F68D-4784-4210-B6B3-F7332DA82457/0-16x9.jpg?width=250&t=1776938957103" tvg-name="Oklahoma Lawton KWSO 07 Live | (TizTV)"  group-title="Local",Oklahoma Lawton KWSO 07 Live | (TizTV)
 https://pubads.g.doubleclick.net/ssai/event/riyMe7GfTmK550Gi1N287Q/master.m3u8
@@ -1208,6 +1244,9 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcm
 
 #EXTINF:-1, tvg-id="TCMPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" tvg-name="TCM West (InsolenceWillow)"  group-title="Movies",TCM West (InsolenceWillow)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcmwest.us.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TeenNick (nocable.cc)"  group-title="Animation/KidsTV",TeenNick (nocable.cc)
+http://nocable.cc:8080/@buddy/4854/140004
 
 #EXTINF:-1, tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" tvg-name="Tennis Channel"  group-title="Sports",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
